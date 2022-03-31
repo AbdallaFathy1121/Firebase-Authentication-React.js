@@ -1,0 +1,27 @@
+
+:root {
+  --light: #fffffc;
+  --dark: #202c59;
+  --grey: #4c5b5c;
+  --primary: #ff7f11;
+  --alert: #ff1e2d;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: var(--dark);
+}
+
+body {
+  margin: 0;
+}
+
+input, button {
+  border: none;
+  outline: none;
+  background: none;
+}
